@@ -17,4 +17,5 @@ Dataset: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-co
 
 Data Update code: https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/109876962/224488535-cf4daa38-ae2c-4722-86ef-8e861501fccc.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109876962/224489087-0f39d4f4-a032-47c9-86e6-2e3edc599c32.gif)
+
